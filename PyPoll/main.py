@@ -2,7 +2,7 @@ import os
 import csv
 
 #Path to collect data from the Resources folder
-electionData = r"C:\Users\Iris2812052\Desktop\python-challenge\PyPoll\Resources\election_data.csv"
+electionData = r"C:\Github Repo\python-challenge\PyPoll\Resources\election_data.csv"
 
 #Define the function and have it accept the "Election Data" as its sole paramenter
 def pyPoll(election):

@@ -2,7 +2,7 @@ import os
 import csv
 
 #Path to collect data from the Resources folder
-budgetDatapath = r"C:\Users\Iris2812052\Desktop\python-challenge\PyBank\Resources\budget_data.csv"
+budgetDatapath = r"C:\Github Repo\python-challenge\PyBank\Resources\budget_data.csv"
 
 #Define the function and have it accept the "budget Data" as its sole paramenter
 def pyBank(budgetData):
